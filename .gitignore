@@ -1,0 +1,26 @@
+# Android Studio / IntelliJ
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+local.properties
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/navEditor.xml
+.idea/assetWizardSettings.xml
+.idea/modules/
+*.iml
+.DS_Store
+
+# App-specifika byggfiler
+app/build/
+
+# Loggar
+*.log
+
+# Backup-filer
+*.bak
+*.swp
