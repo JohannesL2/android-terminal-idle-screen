@@ -12,6 +12,7 @@ local.properties
 .idea/navEditor.xml
 .idea/assetWizardSettings.xml
 .idea/modules/
+.idea/
 *.iml
 .DS_Store
 
